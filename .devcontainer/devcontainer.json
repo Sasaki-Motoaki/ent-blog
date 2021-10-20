@@ -26,6 +26,7 @@
 		"eamodio.gitlens",
 		"exiasr.hadolint",
 		"golang.go",
+		"davidanson.vscode-markdownlint",
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
